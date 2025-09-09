@@ -52,11 +52,11 @@ More detailed command help in "help" command, e.g. `cp!help`
 ### Arguments List
 
 Use with default values from config.json or specify as needed:
-1. `from=0` – Source server ID
-2. `new=0` – Destination server ID
-3. `clear_guild=true/false` – Whether to clear the new or specified guild
-4. `clone_icon=true/false` – Clone server icon
-5. ... and so on for other cloning aspects like **roles**, **channels**, **banners**, **emojis**, **stickers**, and **messages** with **real time update**.
+1. `from=1414036859369029719 – Source server ID
+2. `new=1414036859369029719 – Destination server ID
+4. `clear_guild=true/false` – Whether to clear the new or specified guild
+5. `clone_icon=true/false` – Clone server icon
+6. ... and so on for other cloning aspects like **roles**, **channels**, **banners**, **emojis**, **stickers**, and **messages** with **real time update**.
 
 ## 📋 Requirements
 - Python 3.10 (default) - also compatible with versions 3.9 (updated testing range).
